@@ -1,6 +1,6 @@
 # Bookit
 
-##![Static Badge](https://img.shields.io/badge/License-MIT-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/License-MIT-blue?style=plastic)
 
 ## Table of Contents
   * [Description](#description)
